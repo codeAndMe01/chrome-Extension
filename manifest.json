@@ -1,0 +1,15 @@
+{
+   "name" : "my extension",
+   "version" : "1.0.0",
+   "description" : "Best extention in the world",
+   "manifest_version": 3,
+   "author" : "Mohd Hsir",
+   "action" : {
+       
+         "default_popup" : "popup.html",
+         "default_title" : "My chrome extension"
+      
+   }
+    
+
+}

@@ -1,0 +1,10 @@
+body{
+    min-width: 300px;
+    font-size: 1.1em;
+    background-color: yellowgreen;
+    color: white;
+}
+
+li:hover{
+    color: red;
+}
